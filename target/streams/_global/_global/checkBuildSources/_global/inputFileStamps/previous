@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["F:\\IT projet\\RolePlayingHelper\\build.sbt","18c8410a5bc199e4b865d0e42b7c86efac5d81c5"],["F:\\IT projet\\RolePlayingHelper\\project\\HelloWorld.scala","4f0e16667baaa7b98ba13c457dd8e89ca9f8e8ba"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["F:\\IT projet\\RolePlayingHelper\\build.sbt","18c8410a5bc199e4b865d0e42b7c86efac5d81c5"]],"lastModifiedTimes":[]}]
